@@ -1,0 +1,69 @@
+body {
+  background-color: rgb(240,240,240);
+  font-family: 'Open Sans', sans-serif;
+  padding: 17px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-top li {
+  border-right: solid;
+  border-width: 1px;
+  border-color: rgb(50,50,50);
+  min-width: 75px;
+  text-align: center;
+  color: rgb(50,50,50);
+}
+
+.navbar-top a {
+  color: rgb(50,50,50);
+  text-decoration: none;
+}
+
+.navbar-top a:hover {
+  color: #792A28;
+  text-decoration: none;
+}
+
+.searchbar {
+  height: 55px;
+  line-height: 55px;
+  padding-right: 5px;
+}
+
+.searchbar-list {
+  /*line-height: 55px;*/
+}
+
+.navbar-search {
+  margin-top: 10px;
+}
+
+#logo {
+  margin-top: 7px;
+}
+
+
+
+.red-wrapper {
+  background-color: #792A28;
+  height: 100%;
+  padding: 10px;
+}
+.searchbar {
+  background-color: white;
+}
+
+.searchbar-list {
+  text-align: right;
+}
+
+.red {
+  color: #792A28;
+}
+
+.bold {
+  font-weight: bold;
+}
